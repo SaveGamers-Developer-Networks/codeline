@@ -2,6 +2,7 @@
 
 **Requirements**:
  - Python3
+ - Colorama (pip3 install colorama)
 
 **Installation**:
  1. Download the Terminal from GitHub
